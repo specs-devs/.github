@@ -60,6 +60,7 @@ Whether you're creating your first AR lens or developing complex spatial applica
 | **[packages](https://github.com/specs-devs/packages)** | Asset packages and utilities | [5.25.0](https://github.com/specs-devs/packages/releases/tag/5.25.0) |
 | **[core-frameworks](https://github.com/specs-devs/core-frameworks)** | Interaction Kit, UI Kit, Motion, Sync Kit and Leaf | [5.25.0](https://github.com/specs-devs/core-frameworks/releases/tag/5.25.0) |
 | **[icons](https://github.com/specs-devs/icons)** | The SPECS icon library | [5.25.0](https://github.com/specs-devs/icons/releases/tag/5.25.0) |
+| **[webxr](https://github.com/specs-devs/webxr)** | AR Math & Science WebXR demos by Adam Varga | [main](https://github.com/specs-devs/webxr) |
 | **[ndk](https://github.com/specs-devs/ndk)** | SPECS NDK version manifest | [1.1.1](https://github.com/specs-devs/ndk/releases/tag/1.1.1) |
 
 ## Releases
