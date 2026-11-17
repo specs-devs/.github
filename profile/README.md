@@ -20,6 +20,19 @@
 
 </div>
 
+## Important Links
+
+| Destination | What it is for |
+|:--|:--|
+| **[lensstudio.com](https://lensstudio.com)** | The starting point for people new to Lens Studio and SPECS development |
+| **[developer.specs.com](https://developer.specs.com)** | Where existing developers can manage and publish their Lenses |
+| **[docs.lensstudio.com](https://docs.lensstudio.com)** | Documentation for Lens development |
+| **[lenses.specs.com](https://lenses.specs.com)** | Where consumers can discover Lenses |
+| **[specs.com/mac](https://specs.com/mac)** | Wireless virtual display — try it out |
+| **[specs-devs repositories](https://github.com/orgs/specs-devs/repositories)** | Sample projects, packages and core frameworks |
+
+---
+
 ## Getting Started
 
 Before you begin developing for SPECS, make sure you have the required tools installed:
